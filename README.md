@@ -1,1 +1,2 @@
-# Quotiful_Samartha
+Smart Motivational Quotes Website By Samartha Gs !
+
